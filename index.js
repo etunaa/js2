@@ -6,11 +6,11 @@
 // document.getElementById("demo").innerHTML=text;
 
 
-// const arr=[ 15,53,22,198,10,28,16,70,33,951 ];
-// const odds = arr.filter( number => {
-//     return number % 2!==0;
-// });
-// console.log(odds);
+const arr=[ 15,53,22,198,10,28,16,70,33,951 ];
+const odds = arr.filter( number => {
+    return number % 2!==0;
+});
+document.write(odds);
 
 
 // function display(x,func){
